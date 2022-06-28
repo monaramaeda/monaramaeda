@@ -6,8 +6,9 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monaramaeda&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 -->
-<div>
+<div>  
   ![Snake animation](https://github.com/monaramaeda/monaramaeda/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 <!--
 **monaramaeda/monaramaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
